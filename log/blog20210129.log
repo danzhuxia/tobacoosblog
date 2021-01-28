@@ -1,0 +1,7 @@
+time="2021-01-29 00:00:23" level=info Agent=PostmanRuntime/7.26.8 DataSize=60 HostName=ASUS-PC IP="::1" Method=POST Path=/api/v1/login SpendTime="197 ms" Status=200
+time="2021-01-29 00:00:39" level=info Agent=PostmanRuntime/7.26.8 DataSize=196 HostName=ASUS-PC IP="::1" Method=POST Path=/api/v1/login SpendTime="92 ms" Status=200
+time="2021-01-29 00:01:01" level=info Agent=PostmanRuntime/7.26.8 DataSize=215 HostName=ASUS-PC IP="::1" Method=POST Path=/api/v1/user/add SpendTime="7 ms" Status=200
+time="2021-01-29 00:01:14" level=info Agent=PostmanRuntime/7.26.8 DataSize=215 HostName=ASUS-PC IP="::1" Method=POST Path=/api/v1/user/add SpendTime="18 ms" Status=200
+time="2021-01-29 00:01:19" level=info Agent=PostmanRuntime/7.26.8 DataSize=215 HostName=ASUS-PC IP="::1" Method=POST Path=/api/v1/user/add SpendTime="3 ms" Status=200
+time="2021-01-29 00:01:32" level=info Agent=PostmanRuntime/7.26.8 DataSize=215 HostName=ASUS-PC IP="::1" Method=POST Path=/api/v1/user/add SpendTime="10 ms" Status=200
+time="2021-01-29 00:02:48" level=info Agent=PostmanRuntime/7.26.8 DataSize=215 HostName=ASUS-PC IP="::1" Method=POST Path=/api/v1/user/add SpendTime="5 ms" Status=200

@@ -1,2 +1,2 @@
-# ginblog
-gin+mysql+vue 制作blog
+# tobacoosblog
+use gin+mysql+vue to make a personal blog.
